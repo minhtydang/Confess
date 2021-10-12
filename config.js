@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "coidinhe",
+    introTitle: 'vanhxinhdepnhatTG',
+    introDesc: `helo bạn chối,thương bạn nhất a`,
+    btnIntro: 'click nào nếu đã hết giận',
+    title: 'khó lắm mới có lại được mi nên đừng có mà im lặng',
+    desc: 'tớ biết tớ sai roài nhma ko nói thì lại thấy có lỗi với mi ',
+    btnYes: 'không hề giận nha <3',
+    btnNo: 'Kệ thối 😒',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại kêu mình xấu xí thối um =((',
+    btnReply: 'chấp nhận <33',
+    reply: 'bởi vì mình iu bạn chớ ý kiến giề',
+    mess: 'hehe trả ơn bằng 1 hộp bánh xèo siu toa khổng lồ',
+    messDesc: 'Cuối tuần 4g nha bạn iu',
+    btnAccept: 'tưởng việc gì khó, thế phải đi roài',
+    messLink: 'https://www.facebook.com/messages/t/100013057271299
 }
