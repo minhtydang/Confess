@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "xin chào bạn nhỏ neeno",
-    introTitle: 'neeno siu cấp đáng iu siu cấp vjp pro',
+    introTitle: 'neeno siu cấp đáng iu siu cấp vjp prooo',
     introDesc: `hè no bé iu, minty lun bên bé lày`,
     btnIntro: 'click nào nếu đã nhớ anh',
     title: 'MInty là của Neeno, Neeno là của Minty',
